@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I’m currently doing the Neuefische Web Devloper Bootcamp
+- 🌱 I’m currently learning React
+- 📫 How to reach me: tarkan-aldirmaz@web.de
 <!--
 **Tarkan67/Tarkan67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
