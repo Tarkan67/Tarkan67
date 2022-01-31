@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently doing the Neuefische Web Devloper Bootcamp
+- 🔭 I’m currently doing the Neuefische Web Developer Bootcamp
 - 🌱 I’m currently learning React
 - 📫 How to reach me: tarkan-aldirmaz@web.de
 <!--
