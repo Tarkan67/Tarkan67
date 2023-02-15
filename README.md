@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently doing the Neuefische Web Developer Bootcamp
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Python
 <!--
 **Tarkan67/Tarkan67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
